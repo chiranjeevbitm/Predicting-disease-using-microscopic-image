@@ -1,5 +1,7 @@
 # Predicting-disease-using-microscopic-image
 
+*project is under progress
+
 In this project, I took the dataset from https://ceb.nlm.nih.gov/repositories/malaria-datasets/ . and performed machine learning algorithm to predict the infected blood cells
 
 In the dataset we get two types of microscopic images of blood cells.
