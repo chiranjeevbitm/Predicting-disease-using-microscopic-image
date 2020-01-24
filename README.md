@@ -24,5 +24,5 @@ Then I have standarized the whole sample image into equal dimension so that, Mac
 ![Test Images](/testdata.png)
 
 
-  
+ After performing
  
