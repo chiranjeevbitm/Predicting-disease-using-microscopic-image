@@ -24,5 +24,6 @@ Then I have standarized the whole sample image into equal dimension so that, Mac
 ![Test Images](/testdata.png)
 
 
- After performing
+ After performing the CNN algorithm on the train data we get the accuracy upto 97%
+ ![Accuracy](/acuracy%2025%20epoch.png
  
