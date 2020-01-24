@@ -13,12 +13,15 @@ Uninfected Images
        
 Then I have standarized the whole sample image into equal dimension so that, Machine Learning algorithms can be easily deployed.
 
+      
+     
+    
+![Test Images](/testdata.png)
+
+
 
 ![Infected Images](/infected hist.png)
         
     
               
-![Non Infected Images](/uninfected hist.png)       
-     
-    
-![Test Images](/testdata.png)
+![Non Infected Images](/uninfected hist.png) 
