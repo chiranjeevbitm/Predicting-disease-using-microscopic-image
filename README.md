@@ -6,10 +6,15 @@ In the dataset we get two types of microscopic images of blood cells.
 
 Parasitized Images
         [Infected Images]
-             
+
+![Infected Images](/infected&%20hist.png)
+     
+     
 Uninfected Images
         [Non Infected Images]
-
+             
+![Non Infected Images](/uninfected%20hist.png) 
+ 
        
 Then I have standarized the whole sample image into equal dimension so that, Machine Learning algorithms can be easily deployed.
 
@@ -19,9 +24,4 @@ Then I have standarized the whole sample image into equal dimension so that, Mac
 ![Test Images](/testdata.png)
 
 
-
-![Infected Images](/infected hist.png)
-        
-    
-              
-![Non Infected Images](/uninfected hist.png) 
+  
