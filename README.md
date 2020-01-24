@@ -5,14 +5,14 @@ In this project, I took the dataset from https://ceb.nlm.nih.gov/repositories/ma
 In the dataset we get two types of microscopic images of blood cells.
 
 1. Parasitized Images
-        ![Infected Images]("infected hist.png")
+        ![Infected Images](/infected hist.png)
         
              
 2. Uninfected Images
-        ![Non Infected Images]("uninfected hist.png")
+        ![Non Infected Images](/uninfected hist.png)
        
        
        
 Then I have standarized the whole sample image into equal dimension so that, Machine Learning algorithms can be easily deployed.
 
-![Test Images]("testdata.png")
+![Test Images](/testdata.png)
