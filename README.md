@@ -7,7 +7,7 @@ In the dataset we get two types of microscopic images of blood cells.
 Parasitized Images
         [Infected Images]
 
-![Infected Images](/infected&%20hist.png)
+![Infected Images](/infected%20hist.png)
      
      
 Uninfected Images
